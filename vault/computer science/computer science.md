@@ -1,5 +1,5 @@
-![[Pasted image 20250522093308.png]]
 [[electricity]]
 [[semiconductor]]
 [[logical gates]]
 [[electronics]]
+[[boolean logic]]

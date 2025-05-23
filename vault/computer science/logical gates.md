@@ -1,0 +1,1 @@
+logical gates are electronic components that implement [[boolean logic]]
