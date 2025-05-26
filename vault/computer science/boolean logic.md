@@ -51,8 +51,8 @@ boolean logic uses two values
 | x   | y   | or  |
 | :-- | --- | --- |
 | 0   | 0   | 0   |
-| 1   | 0   | 0   |
-| 0   | 1   | 0   |
+| 1   | 0   | 1   |
+| 0   | 1   | 1   |
 | 1   | 1   | 1   |
 
 # functions
@@ -81,3 +81,33 @@ a **or** ( b **and** c ) = ( a **or** b ) **and** ( a **or** c )
 a **and** ( b **or** c ) = ( a **and** b ) **or** ( a **and** c )
 # morgan laws
 ## not( a or b ) = not( a ) and not( b )
+
+
+# how to convert the truth table to a boolean function
+| a   | b   | c   | f   |
+| :-- | :-- | --- | --- |
+| 0   | 0   | 0   | 1   |
+| 0   | 0   | 1   | 0   |
+| 0   | 1   | 0   | 1   |
+| 0   | 1   | 1   | 0   |
+| 1   | 0   | 0   | 0   |
+| 1   | 0   | 1   | 0   |
+| 1   | 1   | 0   | 1   |
+| 1   | 1   | 1   | 1   |
+## step 1: write a function for each row equal to 1
+|       | a     | b     | c     | f     |                                    |     |
+| :---- | :---- | :---- | ----- | ----- | ---------------------------------- | --- |
+| **>** | **0** | **0** | **0** | **1** | not( a ) and not( b ) and not( c ) |     |
+|       | 0     | 0     | 1     | 0     |                                    |     |
+| **>** | **0** | **1** | **0** | **1** | not( a ) and ( b ) and not( c )    |     |
+|       | 0     | 1     | 1     | 0     |                                    |     |
+|       | 1     | 0     | 0     | 0     |                                    |     |
+|       | 1     | 0     | 1     | 0     |                                    |     |
+| **>** | **1** | **1** | **0** | **1** | ( a ) and ( b ) and not( c )       |     |
+| **>** | **1** | **1** | **1** | **1** | ( a ) and ( b ) and ( c )          |     |
+## step 2: merge all functions with or
+( not( a ) and not( b ) and not( c ) )
+or ( not( a ) and ( b ) and not( c ) )
+or ( ( a ) and ( b ) and not( c ) )
+or ( ( a ) and ( b ) and ( c ) )
+## step 3: simplify the expression using identities and morgan laws

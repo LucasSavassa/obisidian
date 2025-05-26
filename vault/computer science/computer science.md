@@ -2,4 +2,3 @@
 [[semiconductor]]
 [[logical gates]]
 [[electronics]]
-[[boolean logic]]

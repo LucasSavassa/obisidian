@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/computer science.md",
+                "file": "computer science/boolean logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "computer science"
-            }
-          },
-          {
-            "id": "fd7ab18bd7a8e5bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "boolean logic"
             }
           }
         ]
@@ -180,11 +170,11 @@
   },
   "active": "feb853903b9ab0ec",
   "lastOpenFiles": [
-    "computer science/computer science.md",
     "computer science/logical gates.md",
+    "computer science/boolean logic.md",
+    "computer science/computer science.md",
     "computer science/electronics.md",
     "computer science/electricity.md",
-    "computer science/boolean logic.md",
     "library.md",
     "computer science",
     "Untitled.md",
