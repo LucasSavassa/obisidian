@@ -4,30 +4,30 @@ if ( a = 1 )
 	return 0
 else
 	return 1
-![[logical gates 2025-05-27 09.14.58.excalidraw]]
+![[gate not]]
 # and
 if ( a = 1 and b = 1 )
 	return 1
 else
 	return 0	
-![[logical gates 2025-05-27 09.11.41.excalidraw]]
+![[gate and]]
 # or
 if ( a = 1 or b = 1)
 	return 1
 else
 	return 0
-![[logical gates 2025-05-27 09.13.35.excalidraw]]
+![[gate or]]
 # nand
 if ( a = 1 and b = 1 )
     return 0
 else
 	return 1
 
-![[logical gates 2025-05-27 09.06.48.excalidraw]]
+![[gate nand]]
 
 # and3
 if ( a = 1 and b = 1 and c = 1)
 	return 1
 else
 	return 0
-![[logical gates 2025-05-27 09.17.07.excalidraw]]
+![[gate and 3 way]]
