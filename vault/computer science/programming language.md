@@ -1,1 +1,2 @@
 [[javascript]]
+[[hardware description language]]
