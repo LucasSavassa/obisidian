@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8423a7ca41de339b",
+        "id": "f615bf7c36ea4e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "8b572a7787fa40d6",
+            "id": "45824a9b86720c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/logical gates.md",
+                "file": "computer science/standards/unicode/common locale data repository.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logical gates"
+              "title": "common locale data repository"
             }
           }
         ]
@@ -169,39 +169,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b572a7787fa40d6",
+  "active": "45824a9b86720c39",
   "lastOpenFiles": [
-    "attachments/gate and 3 way.md",
-    "attachments/gate xor.md",
-    "attachments/synchronous.md",
-    "attachments/gate or.md",
-    "computer science/logical gates.md",
-    "computer science/boolean logic.md",
-    "library.md",
-    "computer science/programming language.md",
-    "system theory/system theory.md",
-    "attachments/hdl document.png",
-    "computer science/computer science.md",
-    "attachments/gate and.md",
-    "hardware description language.md",
-    "home.md",
-    "system theory/asynchronous.md",
-    "system theory/process.md",
-    "computer science/asynchronous programming.md",
-    "attachments/synchronous vs asynchronous.md",
-    "attachments/gate nand.md",
-    "attachments/gate not.md",
-    "computer science/javascript.md",
-    "system theory",
+    "computer science/standards/bcp/bcp 47.md",
+    "computer science/standards/unicode/common locale data repository.md",
+    "computer science/standards/iana/language subtag registry.md",
+    "computer science/standards/rfc/rfc.md",
+    "computer science/standards/iana/iana.md",
+    "Pasted image 20250605171442.png",
+    "computer science/standards/unicode/unicode.md",
+    "tools/traksys/v11/traksys.javascript.datetimepicker.md",
+    "tools/traksys/v11/traksys.javascript.md",
+    "tools/traksys/v11/v11.md",
+    "tools/traksys/v11/web.md",
+    "tools/traksys/traksys.md",
+    "tools/traksys/v12/license.md",
+    "tools/traksys/v12/v12.md",
+    "tools/traksys/v12",
+    "tools/traksys/v11",
+    "computer science/standards/unicode",
+    "computer science/standards/iana",
+    "computer science/standards/rfc/rfc 4646.md",
+    "computer science/standards/bcp/bcp.md",
+    "computer science/standards/bcp",
+    "computer science/standards",
+    "computer science/standards/rfc",
+    "tools/traksys/v12/single instance multi site.md",
+    "tools/traksys/v12/users.md",
+    "tools/traksys/v12/category.md",
+    "tools/traksys",
+    "attachments/traksys license users.md",
+    "attachments/parsec logo.png",
     "Excalidraw",
-    "Excalidraw/asynchronous programming 2025-05-28 11.00.14.excalidraw.md",
-    "attachments/Drawing 2025-05-27 09.02.20.excalidraw.md",
-    "computer science/semiconductor.md",
-    "computer science/Pasted image 20250522093308.png",
-    "attachments",
-    "computer science/electronics.md",
-    "computer science/electricity.md",
-    "computer science",
-    "Untitled.md"
+    "tools/software.md",
+    "tools/tools.md",
+    "library.md",
+    "home.md",
+    "tools",
+    "computer science/programming language.md",
+    "computer science/logical gates.md",
+    "attachments/gate and 3 way.md",
+    "attachments/hdl document.png",
+    "computer science/Pasted image 20250522093308.png"
   ]
 }
