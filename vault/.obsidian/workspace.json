@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/standards/unicode/common locale data repository.md",
+                "file": "computer science/standards/unicode/unicode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "common locale data repository"
+              "title": "unicode"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "45824a9b86720c39",
   "lastOpenFiles": [
-    "computer science/standards/bcp/bcp 47.md",
     "computer science/standards/unicode/common locale data repository.md",
+    "computer science/standards/bcp/bcp 47.md",
     "computer science/standards/iana/language subtag registry.md",
     "computer science/standards/rfc/rfc.md",
     "computer science/standards/iana/iana.md",
