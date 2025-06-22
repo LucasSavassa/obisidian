@@ -1,6 +1,6 @@
 https://www.unicode.org/reports/tr35/#Introduction
 
-![[Pasted image 20250605171442.png]]
+![[iana and cldr.png]]
 [[iana]] defines subtags in [[language subtag registry]], following [[bcp 47]]
 CLDR uses the tags to provides **rich locale data** to them
 

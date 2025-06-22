@@ -40,3 +40,5 @@ if ( a = 1 and b = 1 and c = 1)
 else
 	return 0
 ![[gate and 3 way]]
+# mux
+![[gate mux]]
