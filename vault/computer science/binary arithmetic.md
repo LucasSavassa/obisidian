@@ -14,7 +14,7 @@ since the first value is 0, the maximum number is 2^n - 1
 # from binary to decimal
 ![[attachments/binary arithmetic]]
 # from decimal to binary
-![[binary arithmetic 2025-06-21 13.43.37.excalidraw]]
+![[from decimal to binary]]
 # addition
 ## half adder
 ![[half adder.png]]
@@ -30,4 +30,4 @@ simply use one bit to represent negative numbers
 negative numbers are represented as 2^n - x
 ![[negative numbers with two complement.png]]
 ### representing -X using two complement
-![[binary arithmetic 2025-06-21 16.07.42.excalidraw]]
+![[two complement]]

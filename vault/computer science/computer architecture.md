@@ -5,10 +5,10 @@ the von neumann architecture uses
 - control unit
 - registers
 - input / output devices (I/O)
-![[Pasted image 20250621181402.png]]
+![[neumann architecture.png]]
 
 to execute the fetch-decode-execute cycle:
-![[Pasted image 20250621182017.png]]
+![[fetch-decode-execute cycle.png]]
 
 the von neumann architecture is kind of an implementation of a turing machine
 
