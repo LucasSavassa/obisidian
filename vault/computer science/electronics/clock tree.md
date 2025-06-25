@@ -1,0 +1,1 @@
+A **clock tree** is a specialized part of an integrated circuit (IC) that distributes the **clock signal** from a central source [[oscillator]] (like a crystal oscillator or PLL) to **all sequential elements** (e.g., flip-flops, registers, memory blocks) in the chip **simultaneously and evenly**.

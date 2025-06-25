@@ -1,4 +1,5 @@
-logical gates are electronic components that implement [[boolean logic]]
+- logical gates are electronic components that implement [[boolean logic]]
+- it takes some time for logic gates to change, see [[time in logical gates]]
 # not
 if ( a = 1 )
 	return 0
@@ -42,3 +43,5 @@ else
 ![[gate and 3 way]]
 # mux
 ![[gate mux]]
+
+
