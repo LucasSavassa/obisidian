@@ -1,5 +1,4 @@
 [[electricity]]
 [[logical gates]]
 [[programming language]]
-[[binary arithmetic]]
 [[computer architecture]]

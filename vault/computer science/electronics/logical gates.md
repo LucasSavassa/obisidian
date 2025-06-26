@@ -1,4 +1,4 @@
-- logical gates are electronic components that implement [[boolean logic]]
+- logical gates are electronic components that implement [[boolean logic]] and [[computer science/electronics/binary arithmetic|binary arithmetic]]
 - it takes some time for logic gates to change, see [[time in logical gates]]
 # not
 if ( a = 1 )
