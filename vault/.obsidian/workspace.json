@@ -167,15 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bbbfc51897c7c31",
+  "active": "55cd28e7ddf23f75",
   "lastOpenFiles": [
+    "attachments/asp net core host.md",
+    "computer science/programming language/c#/asp.net core.md",
+    "Excalidraw",
     "attachments/asp.net middleware pipeline.png",
     "computer science/programming language/c#/csharp.md",
     "library.md",
     "attachments/asp net program.cs file.md",
-    "computer science/programming language/c#/asp.net core.md",
     "attachments/csharp middleware pipeline.png",
-    "Excalidraw",
     "computer science/programming language/programming language.md",
     "computer science/computer science.md",
     "computer science/web/dns.md",
@@ -213,7 +214,6 @@
     "attachments/negative numbers with sign bit.png",
     "attachments/negative numbers with two complement.png",
     "attachments/full adder.png",
-    "attachments/half adder.png",
-    "attachments/iana and cldr.png"
+    "attachments/half adder.png"
   ]
 }

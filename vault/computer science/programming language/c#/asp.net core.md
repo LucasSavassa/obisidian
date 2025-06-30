@@ -41,3 +41,18 @@ after all middleware had a chance to act, the response is created and passed bac
 then each middleware has a chance to process the response
 then handles the response to the previous middleware
 the endpoint is always the last item in the middleware pipeline
+# host
+the variable `app` represents a **host**
+
+a host is an object the encapsulates the app's resources:
+- dependency injection
+- logging
+- configuration
+- `IHostedService` implementations
+
+![[asp net core host]]
+when the host starts, it also starts its services
+when the host stops, it gracefully stops other services
+when the host is built, asp net core do many things under the hood, [see](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-9.0#default-builder-settings)
+a web host do some additional things, **like setting [Kestrel](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-9.0) as the web server**
+# server
