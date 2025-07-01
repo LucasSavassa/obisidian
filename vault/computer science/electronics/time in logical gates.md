@@ -4,6 +4,10 @@ after input changes, it'll take some time for output to change
 [[cmos]] can take from 100ps to 1ns
 [[ttl]] can take from 5ns to 15ns
 
+if logic gates and logic paths are connected directly, it's output become unpredictable in a given moment
+
+to circumvent this issue, modern designs install [[register]] between each computational task. this is called a pipeline.
+
 a clock ([[oscillator]]) changes time from continuous to discrete
  ![[time with oscillator]]
  each cicle of the oscillator is one unit of time
@@ -26,7 +30,7 @@ in t2, write is turned on in registers
 
 in t2, components write output to register
 
-all components share the same clock
+all registers and memory units share the same clock
 
 they obtain the clock value through the [[clock tree]]
 

@@ -1,9 +1,9 @@
 # von neumann architecture
 the von neumann architecture uses
-- memory
+- [[ram]]
 - arithmetic logic unit (ALU)
 - control unit
-- registers
+- [[register]]
 - input / output devices (I/O)
 ![[neumann architecture.png]]
 

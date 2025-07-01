@@ -45,3 +45,11 @@ else
 ![[gate mux]]
 
 
+
+
+# flip flop
+## level 0
+![[data flip flop]]
+## level 1
+![[bit memory]]
+
