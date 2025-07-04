@@ -1,11 +1,11 @@
- # summary
+# summary
 a bit is a digit the can assume two values, 1 and 0.
 
 it's possible to represent anything with infinite bits
-any number, any object ...
+any number, any object …
 
 it is possible to represent any operation with infinite bits
-addition, multiplication, boolean operation ...
+addition, multiplication, boolean operation …
 
 the number of different things that can be represented with **n** bits is:
 ![[binary]]
