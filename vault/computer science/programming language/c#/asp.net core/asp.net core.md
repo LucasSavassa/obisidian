@@ -96,13 +96,10 @@ string? secret = Environment.GetEnvironmentVariable("SECRET")
 app.Environment.IsDevelopment()
 ```
 # logging
-asp.net core imports .net logging framework
-
-and application typically:
+and application will typically:
 1. choose loggers 
 2. log data
-
-when the app calls `Log('message')`, all loggers will log
+when the app calls `Log('message')`, all chosen loggers will write 'message' on their output. here is how to set up:
 
 ## -1. configure logger
 each environment has its own configuration
@@ -114,7 +111,6 @@ builder.Logging.ClearProviders();
 ```
 ## 1. declare loggers
 ```csharp
-var builder = WebApplication.CreateBuilder(args);
 builder.Logging.AddConsole();
 builder.Logging.AddAzureLogger();
 builder.Logging.AddCustomLogger();
@@ -136,3 +132,41 @@ _logger.LogInformation("information");
 _logger.LogWarning("warning");
 _logger.LogError("error");
 ```
+
+# routing
+routing is done by a middleware added by default
+it is responsible for processing an http request and handling it to the appropriate target:
+- blazor component
+- razor page
+- mvc controller actions
+- middleware
+# new http requests
+the app should use the built-in implementation of IHttpClientFactory to get instances of HttpClient. It provides:
+- global access to instances
+- support to pipeline pattern, which is useful to do caching, error handling, serialization on outgoing http requests
+- integrates polly to handle transient fault issues
+- manages pooling and lifetime to avoid common dns issues
+- logging
+# content root
+on production this is the structure
+- / content root
+	- / content root / app.exe
+	- / content root / app.dll
+	- / content root / razor.cshtml
+	- / content root / razor.razor
+	- / content root / configuration.json
+	- / content root / configuration.xml
+	- / content root / data.db
+	- / content root / web /
+		- / content root / web / index.html
+		- / content root / web / style.css
+		- / content root / web / behaviour.js
+on development, the content root is the project folder
+# web root
+The web root path defaults to _**{content root}/wwwroot**_.
+/ content root / wwwroot /
+/ content root / wwwroot / index.html
+/ content root / wwwroot / style.css
+/ content root / wwwroot / behaviour.js
+In Razor `.cshtml` files, `~/` points to the web root.
+A path beginning with `~/` is referred to as a _virtual path_.
