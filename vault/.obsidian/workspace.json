@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9ec4609fee6eb261",
+        "id": "fc615a9bc97b65b4",
         "type": "tabs",
         "children": [
           {
-            "id": "42b1cb1635d2ff3a",
+            "id": "7a62052d1a58798c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/web/web.md",
+                "file": "computer science/computer architecture/computer architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web"
-            }
-          },
-          {
-            "id": "615d0c2ed01f0b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/web/web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "web"
-            }
-          },
-          {
-            "id": "14e557778d7a0e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/web/web development/web development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "web development"
-            }
-          },
-          {
-            "id": "7f1854016c958b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/web/web development/web development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "web development"
-            }
-          },
-          {
-            "id": "4e795a3f48b851a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/web/web development/web development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "web development"
-            }
-          },
-          {
-            "id": "c93f99e36842fd56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/web/web development/how to implement authentication securely.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how to implement authentication securely"
+              "title": "computer architecture"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c93f99e36842fd56",
+  "active": "7a62052d1a58798c",
   "lastOpenFiles": [
+    "computer science/computer architecture/von neumann architecture.md",
+    "Excalidraw/computer architecture 2025-07-08 09.23.24.excalidraw.md",
+    "attachments/transistor.png",
+    "computer science/computer architecture/computer architecture.md",
+    "attachments/from transistor to cpu.md",
+    "Excalidraw",
     "computer science/web/web development/how to implement authentication securely.md",
     "computer science/web/web development/web development.md",
     "computer science/web/web development/how to strong password.md",
@@ -266,14 +201,8 @@
     "computer science/electronics/boolean logic.md",
     "computer science/electronics/binary arithmetic.md",
     "computer science/electronics/time in logical gates.md",
-    "computer science/electronics/register.md",
-    "computer science/computer architecture/computer architecture.md",
-    "computer science/standards/unicode/common locale data repository.md",
-    "computer science/standards/bcp/bcp 47.md",
-    "computer science/computer architecture/ram.md",
     "attachments/ram diagram.png",
     "attachments/from bit memory to register.png",
-    "Excalidraw",
     "attachments/asp.net middleware pipeline.png",
     "attachments/csharp middleware pipeline.png",
     "computer science/computer architecture",
@@ -285,7 +214,6 @@
     "language/assessment",
     "attachments/fetch-decode-execute cycle.png",
     "attachments/neumann architecture.png",
-    "attachments/negative numbers with sign bit.png",
-    "attachments/negative numbers with two complement.png"
+    "attachments/negative numbers with sign bit.png"
   ]
 }
