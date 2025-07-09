@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "458ecd2a8b2dfc05",
+        "id": "74dcdae33add57ff",
         "type": "tabs",
         "children": [
           {
-            "id": "64fd98a9db0a8da4",
+            "id": "e4737c280b57cc28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/computer architecture/ram.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ram"
+              "title": "Backlinks"
             }
           },
           {
@@ -168,14 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64fd98a9db0a8da4",
+  "active": "e4737c280b57cc28",
   "lastOpenFiles": [
-    "attachments/memory hierarchy.md",
-    "computer science/computer architecture/ram.md",
-    "computer science/computer architecture/von neumann architecture.md",
-    "computer science/computer architecture/computer architecture.md",
+    "computer science/programming language/c#/asp.net core/asp.net.core.authentication.md",
+    "Excalidraw/asp.net.core.authentication 2025-07-09 19.13.20.excalidraw.md",
+    "Excalidraw/asp.net.core.authentication 2025-07-09 19.39.05.excalidraw.md",
+    "computer science/programming language/c#/asp.net core/asp.net core.md",
+    "computer science/programming language/c#/asp.net core/blazor/blazor.md",
+    "Excalidraw/asp.net.core.authentication 2025-07-09 18.59.10.excalidraw.md",
     "Excalidraw",
-    "tools & tricks/tools/tools.md",
+    "computer science/programming language/c#/asp.net core/blazor/security and identity.md",
+    "computer science/programming language/c#/asp.net core/blazor",
+    "tools & tricks/tools & tricks.md",
     "tools & tricks/tricks/tricks.md",
     "tools & tricks/tricks/how to list biggest files in windows using powershell.md",
     "tools & tricks/tools & tricks.md",
@@ -199,15 +202,17 @@
     "computer science/web/how/what is domain name.md",
     "computer science/web/how/what happens when the user types a domain name in the browser and hits enter.md",
     "computer science/web/how/how.md",
+<<<<<<< HEAD
     "computer science/web/concepts/concepts.md",
     "computer science/web/web.md",
     "computer science/web/web development/how to set height on html and body.md",
+=======
+>>>>>>> aa15e5b (Update vault)
     "computer science/web/concepts",
     "attachments/transistor.png",
     "computer science/web/how",
     "computer science/web/web development",
     "computer science/programming language/c#/best practices",
-    "computer science/programming language/c#/asp.net core",
     "attachments/ram diagram.png",
     "attachments/from bit memory to register.png",
     "attachments/asp.net middleware pipeline.png",

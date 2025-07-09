@@ -1,3 +1,6 @@
+[[blazor]]
+[[asp.net.core.authentication|authentication]]
+# overview
 [source](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-9.0&tabs=windows)
 # program.cs
 - asp.net core apps contain a **program.cs** files
