@@ -1,5 +1,5 @@
 [[computer science]]
 [[system theory]]
-[[tools]]
+[[tools & tricks]]
 [[language]]
 

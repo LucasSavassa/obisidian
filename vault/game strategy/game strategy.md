@@ -1,4 +1,4 @@
-![[game strategy 2025-07-08 18.54.17.excalidraw]]
+![[short-lived human and planet earth]]
 What if I spending my years working hard and still fail?
 I arrive 08h at office, and leave at 20h
 I spend my time building a web site and learning chinese

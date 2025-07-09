@@ -23,7 +23,7 @@ tags: [excalidraw]
 goal: have a happy life ^nWUIHKJT
 
 ## Embedded Files
-bb86894d96b5fa11f304f24b8d3c3d79e0804d4a: [[Pasted Image 20250708185535_046.png]]
+bb86894d96b5fa11f304f24b8d3c3d79e0804d4a: [[planet earth.png]]
 
 %%
 ## Drawing
