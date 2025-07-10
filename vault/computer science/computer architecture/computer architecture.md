@@ -30,3 +30,12 @@ the father of modern computer architecture, the [[von neumann architecture]] imp
 # assembler
 translates `ADD R1 R2` to `00000 0001 0010`
 translates `assembly` to `binary`
+
+# addressing mode
+- to perform an operation, the cpu needs to know which and where the operands are.
+- addressing mode referes to this, where the operands are
+- there are four types:
+	- **register**: `ADD R1 R2` *(add an register value to another register value)*
+	- **direct**: `ADD R1 RAM[0]` *(increment memory address `RAM[0]` with register value)*
+	- **indirect**: `ADD R1 RAM[R2]` *(increment memory address `RAM[R2]` with register value)*
+	- **immediate**: `ADD R1 2` *(add value to register value)*
