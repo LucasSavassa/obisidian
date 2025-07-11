@@ -10,3 +10,24 @@ if you keep nurturing unrealistic expection, you will be forever frustrated
 
 put your life away from your hands, let go of your sense of control
 do your best and just accept whatever happens to you
+
+# professional playbook
+- the only strategy is **grow in the right direction**
+- in other words, **become valuable and wait**
+- nothing else matter
+- if they underestimate you, it doesn't matter, don't spend even a second thinking about
+- if they don't pay you well, it doesn't matter, don't spend even a second thinking about
+- if they don't treat you well, it doesn't matter, don't spend even a second thinking about
+- if company is going broke, it doesn't matter, don't spend even a second thinking about
+
+- the only strategy is **grow in the right direction**
+- **become valuable and wait**
+## right direction
+- ? create **khan** and learn web development ?
+- ? learn **traksys**, learn **mes** ?
+- ? learn **cloud** ?
+- ? learn **AI** for industry ?
+- ? learn **chinese** ?
+- ? master degree ? teaching ?
+## a nice draw
+![[pro playbook possibilities]]

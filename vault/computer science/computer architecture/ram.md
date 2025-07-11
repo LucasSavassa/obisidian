@@ -16,4 +16,3 @@ $$
 - it's possible to combine tiny memory repositories (register) with large memory repository (ram and disk) to design a memory system that is both: **large and fast**
 ![[memory hierarchy]]
 - the cpu chooses which memory layer to use for an operation based on [[computer architecture#addressing mode|addressing mode]]
-- 

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "74dcdae33add57ff",
+        "id": "458ecd2a8b2dfc05",
         "type": "tabs",
         "children": [
           {
-            "id": "e4737c280b57cc28",
+            "id": "64fd98a9db0a8da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/computer architecture/ram.md",
+                "file": "tools & tricks/tricks/tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ram"
+              "title": "tricks"
+            }
+          },
+          {
+            "id": "33fa7abaf9fe1cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game strategy/game strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "game strategy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer science/computer architecture/ram.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ram"
             }
           },
           {
@@ -167,47 +183,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4737c280b57cc28",
+  "active": "5bbbfc51897c7c31",
   "lastOpenFiles": [
-    "computer science/programming language/c#/asp.net core/asp.net.core.authentication.md",
-    "Excalidraw/asp.net.core.authentication 2025-07-09 19.13.20.excalidraw.md",
-    "Excalidraw/asp.net.core.authentication 2025-07-09 19.39.05.excalidraw.md",
-    "computer science/programming language/c#/asp.net core/asp.net core.md",
+    "computer science/programming language/c#/asp.net core/blazor/security and identity.md",
     "computer science/programming language/c#/asp.net core/blazor/blazor.md",
+    "computer science/programming language/c#/asp.net core/blazor",
+    "computer science/programming language/c#/asp.net core/asp.net.core.authentication.md",
+    "Excalidraw/asp.net.core.authentication 2025-07-09 19.39.05.excalidraw.md",
+    "Excalidraw/asp.net.core.authentication 2025-07-09 19.13.20.excalidraw.md",
     "Excalidraw/asp.net.core.authentication 2025-07-09 18.59.10.excalidraw.md",
     "Excalidraw",
-    "computer science/programming language/c#/asp.net core/blazor/security and identity.md",
-    "computer science/programming language/c#/asp.net core/blazor",
-    "tools & tricks/tools & tricks.md",
+    "attachments/pro playbook possibilities.md",
+    "game strategy/game strategy.md",
+    "home.md",
+    "library.md",
     "tools & tricks/tricks/tricks.md",
     "tools & tricks/tricks/how to list biggest files in windows using powershell.md",
+    "tools & tricks/tricks/how to get assembly full name.md",
     "tools & tricks/tools & tricks.md",
+    "computer science/computer architecture/ram.md",
+    "attachments/memory hierarchy.md",
+    "computer science/computer architecture/von neumann architecture.md",
+    "computer science/computer architecture/computer architecture.md",
+    "tools & tricks/tools/tools.md",
     "tools & tricks/tricks",
     "tools & tricks/tools/traksys/traksys.md",
     "tools & tricks/tools/software.md",
     "tools & tricks/tools/Untitled",
     "tools & tricks/software.md",
-    "library.md",
-    "home.md",
     "tools & tricks/tools",
     "attachments/short-lived human and planet earth.md",
-    "game strategy/game strategy.md",
     "attachments/planet earth.png",
     "computer science/web/concepts/authentication.md",
     "game strategy",
     "computer science/web/web development/how to implement authentication securely.md",
     "computer science/web/how/how does the web works.md",
-    "computer science/web/web development/web development.md",
-    "attachments/authentication.md",
-    "computer science/web/how/what is domain name.md",
-    "computer science/web/how/what happens when the user types a domain name in the browser and hits enter.md",
-    "computer science/web/how/how.md",
-<<<<<<< HEAD
-    "computer science/web/concepts/concepts.md",
-    "computer science/web/web.md",
-    "computer science/web/web development/how to set height on html and body.md",
-=======
->>>>>>> aa15e5b (Update vault)
     "computer science/web/concepts",
     "attachments/transistor.png",
     "computer science/web/how",
