@@ -31,3 +31,9 @@ do your best and just accept whatever happens to you
 - ? master degree ? teaching ?
 ## a nice draw
 ![[pro playbook possibilities]]
+what about?
+1. for 2 years: build your thing + lazy but smart
+2. if it doesn't work:
+3. for 5 years: teach + lazy but smart
+4. if it doesn't work:
+5. hardworking humble guy
