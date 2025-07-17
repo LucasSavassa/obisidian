@@ -3,7 +3,7 @@ the von neumann architecture uses
 - arithmetic logic unit (ALU)
 - control unit
 - [[register]]
-- input / output devices (I/O)
+- [[input output]]
 ![[neumann architecture.png]]
 
 to execute the fetch-decode-execute cycle:

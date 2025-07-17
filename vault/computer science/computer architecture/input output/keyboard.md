@@ -1,0 +1,13 @@
+- computers reserve a region in ram to interact with a display monitor
+- this region is called **keyboard memory map**
+- this region doesn't need so many registers, since one 16 bit register can represent 255 65,536 different keys
+- in fact, only one register is needed
+- instead of calling it **keyboard memory map**, you could call it **keyboard register**
+- not true
+- because the user can press two keys at the same time
+- if the operating system is designed to allow two keys pressed at the same time, the amount of bits needed is:
+	- k - number of keys in the keyboard
+	- n - number of simultaneous keys supported by operating system
+	- k^n - bits
+	- if k = 255, n = 2, then at least 16 bits
+![[keyboard 2025-07-16 18.53.26.excalidraw]]
