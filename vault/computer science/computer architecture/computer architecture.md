@@ -7,10 +7,10 @@ the father of modern computer architecture, the [[von neumann architecture]] imp
 5. complex operators are arrenged to build the arithmetic logic unit ( *von neumann architecture* )
 6. complex operators are arrenged to build the control unit ( *von neumann architecture* )
 7. the arithmetic logic unit and the control unit are used to build the central processing unit
-8. an [instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) is defined to operate the computer
-9. the central processing unit is designed to implement the [instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
+8. an [[instruction set architecture]] is defined to operate the computer
+9. the central processing unit is designed to implement the [[instruction set architecture]]
 10. an assembly language is defined to facilitate human programming tasks
-11. an assembler compiles assembly language to binary programs
+11. an assembler translates symbolic program into binary program
 
 # cpu
 ![[from transistor to cpu]]

@@ -1,0 +1,4 @@
+- RISC-V is an [[instruction set architecture]]
+- it is an **open** ISA, not protected by intellectual property
+- RISC-V can be extended
+- RISC - reduced instruction set architecture

@@ -1,0 +1,2 @@
+- developed and used by Apple
+- protected by intellectual property
