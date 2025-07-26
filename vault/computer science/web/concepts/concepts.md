@@ -1,1 +1,2 @@
-[[computer science/web/concepts/authentication]]
+[[computer science/web/concepts/authentication|authentication]]
+[[observability]]
