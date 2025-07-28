@@ -7,7 +7,7 @@
 ![[display monitor 2025-07-16 18.44.27.excalidraw]]
 
 # pixel
-- an pixel can assume from two states (black and white), to 16,581,375 states (rgb)
+- a pixel can assume two states (black and white), to 16,581,375 states (rgb)
 - rgb pixel is composed of 3 bytes:
 	- r: 00000000
 	- g: 00000000

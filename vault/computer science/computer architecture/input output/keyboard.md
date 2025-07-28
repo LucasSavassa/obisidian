@@ -1,6 +1,6 @@
 - computers reserve a region in ram to interact with a display monitor
 - this region is called **keyboard memory map**
-- this region doesn't need so many registers, since one 16 bit register can represent 255 65,536 different keys
+- this region doesn't need so many registers, since one 16 bit register can represent 65,536 different keys
 - in fact, only one register is needed
 - instead of calling it **keyboard memory map**, you could call it **keyboard register**
 - not true
