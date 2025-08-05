@@ -1,1 +1,1 @@
-[[security and identity]]
+[[blazor.component.lifecycle|component lifecycle]]

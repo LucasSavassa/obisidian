@@ -1,10 +1,12 @@
-computers have components that help perform computation (like alu, [[ram]], rom)
-but they also have components to enable [[user interaction]], like:
-- [[display monitor]]
-- mouse
-- [[keyboard]]
-- speakers
-- microphone
-- printer
-- network interface
-- others
+- computers have components that help perform computation (like alu, [[ram]], rom)
+- but they also have components to enable [[user interaction]], like:
+	- [[display monitor]]
+	- mouse
+	- [[keyboard]]
+	- speakers
+	- microphone
+	- printer
+	- network interface
+	- others
+- the computer doesn't need to know how to translate digital data into physical output (sound and image) or vice-versa
+- usually io devices come equipped with a dedicated controller so this responsibility can be offloaded from cpu to these controllers
