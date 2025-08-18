@@ -1,5 +1,5 @@
 ![[short-lived human and planet earth]]
-What if I spending my years working hard and still fail?
+What if I spend my years working hard and still fail?
 I arrive 08h at office, and leave at 20h
 I spend my time building a web site and learning chinese
 Today I tried to read an article about authentication and felt overwhelmed
