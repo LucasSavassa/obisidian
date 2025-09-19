@@ -1,0 +1,24 @@
+[[asp.net.core.authentication|authentication]]
+# plan to understand this shit
+- [ ] understand identity architecture
+	- [x] list goals
+	- [ ] how goals breakdown into actions
+	- [ ] derive objects
+	- [ ] connect objects and actions
+- [ ] understand identity ui
+# goals
+- a framework that provides code to securely authenticate and authorize users
+- implements best practices
+- provides boilerplate user interface
+# asp.net core identity vs oidc
+## asp.net core identity
+asp.net core identity uses databases
+asp.net core identity serves only the asp.net core app that declared it
+## oidc
+[oidc](https://www.microsoft.com/en-us/security/business/security-101/what-is-openid-connect-oidc) provides **single sign-on**
+![[Pasted image 20250919091501.png]]
+oidc is a protocol that extends oauth2
+oidc can provide authentication services to multiple apps (multi-tenant)
+oidc authenticates the user, then builds a claim, then turn it into a token
+## how to choose
+check [this article](https://learn.microsoft.com/en-us/aspnet/core/security/how-to-choose-identity-solution)

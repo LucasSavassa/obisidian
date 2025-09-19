@@ -1,5 +1,5 @@
 [[blazor]]
-[[asp.net.core.authentication|authentication]]
+[[asp.net.core.identity|identity]]
 # overview
 [source](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-9.0&tabs=windows)
 # program.cs
