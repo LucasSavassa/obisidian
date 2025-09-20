@@ -1,4 +1,7 @@
 [[asp.net.core.authentication|authentication]]
+# references
+[docs](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-9.0&tabs=visual-studio)
+[code](https://github.com/dotnet/AspNetCore/tree/main/src/Identity)
 # plan to understand this shit
 - [ ] understand identity architecture
 	- [x] list goals
@@ -7,6 +10,9 @@
 	- [ ] connect objects and actions
 - [ ] understand identity ui
 # goals
+- use http request + context to determine user identity (authentication)
+- create and manage session
+- use user identity to authorize or block content to user (authorization)
 - a framework that provides code to securely authenticate and authorize users
 - implements best practices
 - provides boilerplate user interface
