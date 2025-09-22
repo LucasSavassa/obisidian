@@ -28,3 +28,9 @@ oidc can provide authentication services to multiple apps (multi-tenant)
 oidc authenticates the user, then builds a claim, then turn it into a token
 ## how to choose
 check [this article](https://learn.microsoft.com/en-us/aspnet/core/security/how-to-choose-identity-solution)
+# migration
+to use the identity api, asp.net core apps must define a connection with a database that implements the identity schema.
+
+entity framework migrations can be used to apply the schema.
+![[asp.net.core.identity 2025-09-22 09.05.36.excalidraw]]
+[getting started](https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli#getting-started)

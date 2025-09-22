@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "8b65bea719d16577",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fc597faa06500e5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "attachments/asp.net.core.identity 2025-09-22 09.05.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "asp.net.core.identity 2025-09-22 09.05.36.excalidraw"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,14 +187,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bbbfc51897c7c31",
+  "active": "caf2bbb5a4ab8f96",
   "lastOpenFiles": [
+    "attachments/asp.net.core.identity 2025-09-22 09.05.36.excalidraw.md",
+    "computer science/programming language/c#/asp.net core/identity/asp.net.core.identity.md",
     "attachments/Pasted image 20250919091501.png",
     "computer science/programming language/c#/asp.net core/identity/asp.net.core.authentication.md",
     "attachments/asp.net.core.authentication 2025-07-09 19.13.20.excalidraw.md",
     "computer science/programming language/c#/asp.net core/blazor/blazor.md",
     "attachments/asp.net.core.authentication 2025-07-09 18.59.10.excalidraw.md",
-    "computer science/programming language/c#/asp.net core/identity/asp.net.core.identity.md",
     "computer science/programming language/c#/asp.net core/asp.net core.md",
     "computer science/programming language/c#/asp.net core/asp.net.core.dependency.injection.md",
     "computer science/programming language/c#/asp.net core/blazor/blazor.css-isolation.md",
@@ -211,7 +230,6 @@
     "computer science/programming language/assembly",
     "Pasted image 20250731091742.png",
     "computer science/computer architecture/fetch execute cycle",
-    "attachments/Pasted Image 20250723111622_239.png",
     "Untitled.canvas",
     "computer science/computer architecture/instruction set architecture",
     "computer science/computer architecture/input output",
