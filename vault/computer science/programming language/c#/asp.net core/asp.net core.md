@@ -1,5 +1,6 @@
 [[blazor]]
 [[asp.net.core.identity|identity]]
+[[asp.net.core.entityframework|entity framework]]
 # overview
 [source](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-9.0&tabs=windows)
 # program.cs
