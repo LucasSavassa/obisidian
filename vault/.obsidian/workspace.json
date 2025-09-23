@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "ba0b645f0245567d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb30853c5123e70e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "attachments/asp.net.core.entityframework 2025-09-23 17.59.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "asp.net.core.entityframework 2025-09-23 17.59.32.excalidraw"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,8 +189,9 @@
   },
   "active": "9a228e7934d64310",
   "lastOpenFiles": [
-    "attachments/asp.net.core.identity 2025-09-23 17.04.08.excalidraw.md",
+    "attachments/asp.net.core.entityframework 2025-09-23 17.59.32.excalidraw.md",
     "computer science/programming language/c#/asp.net core/entity framework/asp.net.core.entityframework.md",
+    "attachments/asp.net.core.identity 2025-09-23 17.04.08.excalidraw.md",
     "computer science/programming language/c#/asp.net core/identity/asp.net.core.identity.md",
     "computer science/programming language/c#/asp.net core/asp.net core.md",
     "computer science/programming language/c#/asp.net core/entity framework",
@@ -203,7 +222,6 @@
     "food and beverages/food and beverages.md",
     "food and beverages/beer/beer.md",
     "attachments/beer 2025-08-18 11.10.27.excalidraw.md",
-    "attachments/beer 2025-08-18 10.48.10.excalidraw.md",
     "attachments/Pasted image 20250818105033.png",
     "attachments/Pasted image 20250818104450.png",
     "attachments/Pasted Image 20250818103445_357.png",
