@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/programming language/c#/asp.net core/entity framework/asp.net.core.entityframework.md",
+                "file": "computer science/programming language/c#/exception/exception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asp.net.core.entityframework"
+              "title": "exception"
+            }
+          },
+          {
+            "id": "344fea738a6a2fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "b10e4fdec36927a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my craft/how to test/how to test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "how to test"
+            }
+          },
+          {
+            "id": "eed00b0fcb73f510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my craft/my craft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my craft"
+            }
+          },
+          {
+            "id": "58197b859167ac26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my craft/my craft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my craft"
+            }
+          },
+          {
+            "id": "2f8642b5925ef919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my craft/how to execute/how to execute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "how to execute"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "ba0b645f0245567d",
@@ -33,10 +104,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "attachments/asp.net.core.entityframework 2025-09-23 17.59.32.excalidraw.md"
+                "file": "attachments/how to test http call 2025-11-07 10.56.54.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "asp.net.core.entityframework 2025-09-23 17.59.32.excalidraw"
+              "title": "how to test http call 2025-11-07 10.56.54.excalidraw"
             }
           }
         ]
@@ -187,54 +258,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a228e7934d64310",
+  "active": "2f8642b5925ef919",
   "lastOpenFiles": [
-    "attachments/asp.net.core.entityframework 2025-09-23 17.59.32.excalidraw.md",
+    "my craft/how to test/how to test.md",
+    "my craft/how to test/how to test http call.md",
+    "my craft/how to plan/how to plan.md",
+    "my craft/how to organize/how to organize.md",
+    "my craft/how to execute/how to execute.md",
+    "my craft/my craft.md",
+    "my craft/how to execute",
+    "my craft/how to plan",
+    "attachments/how to test http call 2025-11-07 10.56.54.excalidraw.md",
+    "my craft/how to organize",
+    "my craft/how to test",
+    "home.md",
+    "library.md",
+    "computer science/programming language/c#/asp.net core/blazor/blazor.component.data-binding.md",
+    "my craft",
+    "computer science/programming language/c#/asp.net core/blazor/blazor.md",
+    "computer science/programming language/c#/best practices/csharp.exception.bestpractices.md",
+    "computer science/programming language/c#/versions.md",
+    "computer science/programming language/c#/exception/exception.md",
+    "computer science/programming language/c#/exception",
     "computer science/programming language/c#/asp.net core/entity framework/asp.net.core.entityframework.md",
-    "attachments/asp.net.core.identity 2025-09-23 17.04.08.excalidraw.md",
+    "computer science/programming language/c#/asp.net core/identity/asp.net.core.authentication.md",
     "computer science/programming language/c#/asp.net core/identity/asp.net.core.identity.md",
+    "attachments/asp.net.core.entityframework 2025-09-23 17.59.32.excalidraw.md",
+    "attachments/asp.net.core.identity 2025-09-23 17.04.08.excalidraw.md",
     "computer science/programming language/c#/asp.net core/asp.net core.md",
     "computer science/programming language/c#/asp.net core/entity framework",
     "computer science/programming language/c#/asp.net core/identity/Untitled",
     "computer science/programming language/c#/asp.net core/Untitled.md",
     "attachments/asp.net.core.identity 2025-09-22 09.05.36.excalidraw.md",
     "attachments/Pasted image 20250919091501.png",
-    "computer science/programming language/c#/asp.net core/identity/asp.net.core.authentication.md",
     "attachments/asp.net.core.authentication 2025-07-09 19.13.20.excalidraw.md",
-    "computer science/programming language/c#/asp.net core/blazor/blazor.md",
     "attachments/asp.net.core.authentication 2025-07-09 18.59.10.excalidraw.md",
     "computer science/programming language/c#/asp.net core/asp.net.core.dependency.injection.md",
     "computer science/programming language/c#/asp.net core/blazor/blazor.css-isolation.md",
-    "tools & tricks/tricks/how to get assembly full name.md",
     "computer science/programming language/c#/asp.net core/identity",
-    "library.md",
-    "home.md",
-    "attachments/blazor.css-isolation 2025-09-03 09.12.04.excalidraw.md",
-    "computer science/programming language/c#/asp.net core/blazor/blazor.component.data-binding.md",
-    "computer science/programming language/c#/asp.net core/blazor/blazor.component.lifecycle.md",
-    "computer science/programming language/c#/asp.net core/blazor/blazor.render-mode.md",
-    "computer science/programming language/c#/msbuild.md",
-    "computer science/programming language/c#/csharp.md",
-    "computer science/programming language/c#/versions.md",
     "attachments/Pasted image 20250815114246.png",
     "attachments/Pasted Image 20250818103203_439.png",
     "attachments/Pasted Image 20250818103145_427.png",
-    "food and beverages/food and beverages.md",
-    "food and beverages/beer/beer.md",
-    "attachments/beer 2025-08-18 11.10.27.excalidraw.md",
     "attachments/Pasted image 20250818105033.png",
     "attachments/Pasted image 20250818104450.png",
     "attachments/Pasted Image 20250818103445_357.png",
     "attachments/Pasted Image 20250818103418_140.png",
     "attachments/Pasted Image 20250818103359_089.png",
     "food and beverages/beer",
-    "food and beverages",
-    "computer science/programming language/assembly",
     "Pasted image 20250731091742.png",
-    "computer science/computer architecture/fetch execute cycle",
-    "Untitled.canvas",
-    "computer science/computer architecture/instruction set architecture",
-    "computer science/computer architecture/input output",
-    "input / output devices (I"
+    "Untitled.canvas"
   ]
 }
