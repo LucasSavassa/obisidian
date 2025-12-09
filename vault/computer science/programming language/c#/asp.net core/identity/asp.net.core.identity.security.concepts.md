@@ -3,7 +3,7 @@
 - authentication
 - authorization
 - [[asp.net.core.identity.claim|claims]]
-- access
+- policy
 - roles
  
 # flow
@@ -36,5 +36,12 @@ the security generates a unique access card with information about the individua
 > - cookie
 > - json web token
 
-## ?. the user attempts to access another inner area
-the access card is prompted and  allows calculating if the authenticated user has access to this inner area
+## 7. the user attempts to access another inner area
+the access card is prompted and allows calculating if the authenticated user has access to this inner area
+
+## 8. the proxy id is checked against policies
+- each inner area may have different access rules (policies)
+- a policy is a collection of rules
+- the access rules are claim-based
+- to determine if an user has access to an inner area, the claims in its identity are verified against the policy rules
+![[asp.net.core.identity.security.concepts 2025-12-02 17.15.01.excalidraw]]

@@ -1,0 +1,12 @@
+# features
+- [[mes.order management|order management]]
+- [[mes.kpi|kpi]]
+- [[mes.material management|material management]]
+- [[mes.storage management|storage management]]
+- [[mes.traceability|traceability]]
+- [[mes.statistical process control|statistical process control]]
+- [[mes.maintenance|maintenance]]
+- [[mes.time series|time series]]
+- [[mes.utilities|utilities]]
+- [[mes.integration with erp|integration with erp]]
+- [[mes.integration with shopfloor|integration with shopfloor]]

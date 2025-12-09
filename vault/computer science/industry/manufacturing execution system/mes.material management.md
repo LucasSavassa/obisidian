@@ -1,0 +1,5 @@
+- product definition
+- material definition
+- recipe definition
+- versioning
+- bill of materials

@@ -1,0 +1,3 @@
+- service ticket
+- mean time between failure
+- mean time to repair
