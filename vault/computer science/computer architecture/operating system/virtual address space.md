@@ -1,0 +1,1 @@
+![[virtual address space 2025-12-12 11.10.36.excalidraw]]
