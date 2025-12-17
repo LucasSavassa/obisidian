@@ -3,3 +3,4 @@
 [[programming language]]
 [[computer architecture]]
 [[database]]
+[[computer science/web/web|web]]

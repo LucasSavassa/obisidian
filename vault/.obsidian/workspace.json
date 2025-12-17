@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/programming language/c#/threading/csharp.threading.md",
+                "file": "computer science/operating system/garbage collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "csharp.threading"
+              "title": "garbage collection"
             }
           }
         ]
@@ -171,13 +171,17 @@
   },
   "active": "f46ff094f4408682",
   "lastOpenFiles": [
-    "attachments/csharp.threading 2025-12-12 11.21.15.excalidraw.md",
+    "attachments/garbage collection 2025-12-17 10.49.24.excalidraw.md",
+    "computer science/operating system/garbage collection.md",
+    "computer science/operating system/virtual address space.md",
+    "computer science/computer science.md",
+    "computer science/web/web.md",
+    "computer science/computer architecture/computer architecture.md",
     "computer science/programming language/c#/threading/csharp.threading.md",
+    "attachments/csharp.threading 2025-12-12 11.21.15.excalidraw.md",
     "attachments/csharp.threading 2025-12-12 10.52.45.excalidraw.md",
     "attachments/virtual address space 2025-12-12 11.10.36.excalidraw.md",
-    "computer science/computer architecture/operating system/virtual address space.md",
-    "computer science/computer architecture/computer architecture.md",
-    "computer science/computer architecture/operating system",
+    "computer science/operating system",
     "Pasted Image 20251212110044_151.png",
     "computer science/programming language/c#/csharp.md",
     "computer science/programming language/c#/asp.net core/csharp.asp.net.core.md",
@@ -201,10 +205,6 @@
     "computer science/algorithms",
     "computer science/industry/manufacturing execution system/mes.integration with erp.md",
     "computer science/industry/manufacturing execution system/mes.storage management.md",
-    "computer science/industry/manufacturing execution system/mes.maintenance.md",
-    "computer science/industry/manufacturing execution system/mes.material management.md",
-    "computer science/industry/manufacturing execution system/mes.order management.md",
-    "computer science/industry/manufacturing execution system/mes.utilities.md",
     "computer science/industry/manufacturing execution system",
     "computer science/industry",
     "attachments/Pasted Image 20251125150242_325.png",
