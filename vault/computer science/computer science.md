@@ -4,3 +4,4 @@
 [[computer architecture]]
 [[database]]
 [[computer science/web/web|web]]
+[[cloud computing]]
