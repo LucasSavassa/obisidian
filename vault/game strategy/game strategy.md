@@ -1,10 +1,10 @@
 ![[short-lived human and planet earth]]
-What if I spend my years working hard and still fail?
-I arrive 08h at office, and leave at 20h
-I spend my time building a web site and learning chinese
-Today I tried to read an article about authentication and felt overwhelmed
-I'm enduring this because I believe it will lead to money
-What if it doesn't?
+what if i spend my years working hard and still fail?
+i arrive 08h at office, and leave at 20h
+i spend my time building a web site and learning chinese
+today i tried to read an article about authentication and felt overwhelmed
+i'm enduring this because i believe it will lead to money
+what if it doesn't?
 
 if you keep nurturing unrealistic expection, you will be forever frustrated
 
