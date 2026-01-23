@@ -4,7 +4,7 @@
 - and do the main work in a background thread
 - but didn't include all context data in the integration ticket
 - so, when the worker thread attempted to execute integration
-- the context data changed already
+- the context data would have changed already
 - and the worker wasn't able to replicate the event
 ## example
 - event 1: job started
@@ -14,7 +14,7 @@
 - because the integration is executed in the future
 - the context data might change
 - and the original context data is lost
-- 
+
 - in the example above, the event **job started** is sent with
 - the wrong start date, because the operator updated the start date before the event was executed
 ## solution

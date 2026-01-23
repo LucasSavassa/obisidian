@@ -1,1 +1,1 @@
-[[security/public key infrastructure]]
+[[public key infrastructure]]
