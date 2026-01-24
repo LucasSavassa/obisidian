@@ -4,7 +4,7 @@
 - like: authentication (authn) & authorization (authz)
 - like: user management & role management
 - can be: workforce for companies and internal employees
-- can be: [[azure.microsoft entra.external|external]] for companies and customers
+- can be: [[microsoft entra external|external]] for companies and customers
 # entities
 - **directory** : database to record users, credentials, roles ...
 - **user**      : represents a person with access to your resources

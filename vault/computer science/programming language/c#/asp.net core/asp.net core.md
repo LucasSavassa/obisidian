@@ -1,5 +1,5 @@
 [[blazor]]
-[[asp.net.core.identity|identity]]
+[[identity|identity]]
 [[asp.net.core.entityframework|entity framework]]
 # overview
 [source](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-9.0&tabs=windows)
@@ -11,7 +11,7 @@
 **services** are declared in the pre configure phase
 **middleware** is declared in the pos configure phase
 # dependency injection (DI)
-asp net provides a [[asp.net.core.dependency.injection|dependency injection]] framework
+asp net provides a [[dependency injection|dependency injection]] framework
 when a service is added to the app
 ```csharp
 builder.Services.AddService();

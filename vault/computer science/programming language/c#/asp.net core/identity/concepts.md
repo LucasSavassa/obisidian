@@ -2,7 +2,7 @@
 - user
 - authentication
 - authorization
-- [[asp.net.core.identity.claim|claims]]
+- [[identity claim|claims]]
 - policy
 - roles
  

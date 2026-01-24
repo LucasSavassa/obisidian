@@ -1,5 +1,5 @@
-[[asp.net.core.identity.security.concepts|security concepts]]
-[[asp.net.core.authentication|authentication]]
+[[computer science/programming language/c#/asp.net core/identity/concepts|security concepts]]
+[[computer science/programming language/c#/asp.net core/identity/authentication|authentication]]
 # references
 [docs](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-9.0&tabs=visual-studio)
 [code](https://github.com/dotnet/AspNetCore/tree/main/src/Identity)
