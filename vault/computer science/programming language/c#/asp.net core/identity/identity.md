@@ -31,4 +31,4 @@ oidc authenticates the user, then builds a claim, then turn it into a token
 check [this article](https://learn.microsoft.com/en-us/aspnet/core/security/how-to-choose-identity-solution)
 
 # migrations
-to use the identity api, asp.net core apps must define a connection with a database that implements the identity schema. if the dabase doesn't contain the schema yet, then [[asp.net.core.entityframework#migration|entity framework migrations]] can be used to apply it.
+to use the identity api, asp.net core apps must define a connection with a database that implements the identity schema. if the dabase doesn't contain the schema yet, then [[entity framework#migration|entity framework migrations]] can be used to apply it.

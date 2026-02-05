@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8b655c3efc49143a",
+        "id": "1c7fa711ac11ae9b",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb7ecf728afa7eb",
+            "id": "a7064b37bf117330",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/cloud computing/cloud computing.md",
+                "file": "computer science/programming language/c#/asp.net core/asp.net core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloud computing"
+              "title": "asp.net core"
             }
           },
           {
-            "id": "6e0e69f3783fbe00",
+            "id": "08704a011626da34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/cloud computing/github/github.md",
+                "file": "computer science/programming language/c#/asp.net core/runtime environments/runtime environments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github"
-            }
-          },
-          {
-            "id": "aed0d038ee1b065c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/cloud computing/github/codespaces/codespaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "codespaces"
+              "title": "runtime environments"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,36 +185,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aed0d038ee1b065c",
+  "active": "5bbbfc51897c7c31",
   "lastOpenFiles": [
-    "attachments/codespaces 2026-01-28 20.34.36.excalidraw.md",
-    "computer science/cloud computing/github/codespaces/codespaces.md",
-    "attachments/codespaces 2026-01-28 20.12.55.excalidraw.md",
-    "computer science/cloud computing/github/github.md",
+    "computer science/programming language/c#/asp.net core/runtime environments",
+    "computer science/programming language/c#/asp.net core/runtime environments/runtime environments.md",
+    "computer science/programming language/c#/asp.net core/asp.net core.md",
+    "computer science/programming language/c#/csharp.md",
+    "computer science/computer science.md",
+    "computer science/programming language/c#/asp.net core/identity/identity.md",
+    "computer science/programming language/c#/asp.net core/entity framework/entity framework.md",
+    "computer science/programming language/c#/asp.net core/dependency injection",
+    "computer science/operating system/environment variables.md",
+    "computer science/operating system/virtual address space.md",
+    "computer science/operating system/operating system.md",
+    "computer science/operating system/garbage collection.md",
+    "computer science/programming language/c#/aspire/aspire.md",
+    "computer science/programming language/c#/versions.md",
     "computer science/cloud computing/cloud computing.md",
+    "computer science/cloud computing/github/github.md",
+    "computer science/cloud computing/github/codespaces/codespaces.md",
+    "computer science/programming language/c#/aspire",
+    "attachments/codespaces 2026-01-28 20.34.36.excalidraw.md",
+    "attachments/codespaces 2026-01-28 20.12.55.excalidraw.md",
     "computer science/cloud computing/azure/microsoft entra/how to integrate.md",
     "computer science/cloud computing/github/codespaces",
     "computer science/cloud computing/github",
     "computer science/cloud computing/azure/microsoft entra/microsoft entra external.md",
     "computer science/cloud computing/azure/microsoft entra/microsoft entra.md",
-    "computer science/programming language/c#/asp.net core/asp.net core.md",
-    "computer science/programming language/c#/asp.net core/dependency injection.md",
+    "computer science/programming language/c#/asp.net core/dependency injection/dependency injection.md",
     "computer science/programming language/c#/asp.net core/identity/authentication.md",
-    "computer science/programming language/c#/asp.net core/identity/identity.md",
     "computer science/programming language/c#/asp.net core/identity/concepts.md",
     "computer science/programming language/c#/asp.net core/identity/identity claim.md",
     "computer science/programming language/c#/best practices/best practices.md",
-    "computer science/programming language/c#/exception/exception.md",
-    "computer science/programming language/c#/threading/threading.md",
-    "computer science/programming language/c#/csharp.md",
-    "computer science/programming language/c#/versions.md",
-    "computer science/programming language/c#/msbuild.md",
-    "computer science/security/public key infrastructure.md",
-    "my craft/lessons learned/lessons learned.md",
-    "attachments/public key infrastructure 2026-01-23 14.57.58.excalidraw.md",
-    "my craft/my craft.md",
-    "my craft/lessons learned/typography.md",
-    "my craft/lessons learned/integration.md",
     "security",
     "computer science/security",
     "computer science/cloud computing/azure/microsoft entra",
@@ -238,8 +226,6 @@
     "my craft/lessons learned",
     "attachments/Pasted image 20251223154540.png",
     "attachments/Pasted Image 20251212110044_151.png",
-    "inspiration",
-    "computer science/operating system",
     "attachments/Pasted image 20251112144214.png",
     "attachments/Pasted image 20251211160808.png",
     "attachments/Pasted Image 20251125150242_325.png",

@@ -1,6 +1,8 @@
 [[blazor]]
-[[identity|identity]]
-[[asp.net.core.entityframework|entity framework]]
+[[dependency injection]]
+[[identity]]
+[[entity framework]]
+[[runtime environments]]
 # overview
 [source](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-9.0&tabs=windows)
 # program.cs
