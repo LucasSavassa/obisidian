@@ -3,6 +3,7 @@
 [[identity]]
 [[entity framework]]
 [[runtime environments]]
+[[configuration]]
 # overview
 [source](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-9.0&tabs=windows)
 # program.cs

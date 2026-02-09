@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7064b37bf117330",
+            "id": "cd54beb1781f1b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/programming language/c#/asp.net core/asp.net core.md",
+                "file": "computer science/programming language/c#/asp.net core/secret manager/secret manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asp.net core"
-            }
-          },
-          {
-            "id": "08704a011626da34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/programming language/c#/asp.net core/runtime environments/runtime environments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "runtime environments"
+              "title": "secret manager"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,17 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bbbfc51897c7c31",
+  "active": "cd54beb1781f1b06",
   "lastOpenFiles": [
-    "computer science/programming language/c#/asp.net core/runtime environments",
-    "computer science/programming language/c#/asp.net core/runtime environments/runtime environments.md",
+    "computer science/programming language/c#/asp.net core/configuration/configuration.md",
+    "computer science/programming language/c#/asp.net core/secret manager/secret manager.md",
     "computer science/programming language/c#/asp.net core/asp.net core.md",
+    "computer science/programming language/c#/asp.net core/secret manager",
+    "computer science/programming language/c#/asp.net core/configuration",
+    "computer science/programming language/c#/asp.net core/runtime environments/runtime environments.md",
+    "computer science/operating system/environment variables.md",
+    "computer science/programming language/c#/asp.net core/runtime environments",
     "computer science/programming language/c#/csharp.md",
     "computer science/computer science.md",
     "computer science/programming language/c#/asp.net core/identity/identity.md",
     "computer science/programming language/c#/asp.net core/entity framework/entity framework.md",
     "computer science/programming language/c#/asp.net core/dependency injection",
-    "computer science/operating system/environment variables.md",
     "computer science/operating system/virtual address space.md",
     "computer science/operating system/operating system.md",
     "computer science/operating system/garbage collection.md",
@@ -216,14 +205,10 @@
     "computer science/programming language/c#/asp.net core/identity/authentication.md",
     "computer science/programming language/c#/asp.net core/identity/concepts.md",
     "computer science/programming language/c#/asp.net core/identity/identity claim.md",
-    "computer science/programming language/c#/best practices/best practices.md",
     "security",
     "computer science/security",
     "computer science/cloud computing/azure/microsoft entra",
     "attachments/Pasted image 20260113164823.png",
-    "computer science/cloud computing/azure",
-    "computer science/cloud computing",
-    "my craft/lessons learned",
     "attachments/Pasted image 20251223154540.png",
     "attachments/Pasted Image 20251212110044_151.png",
     "attachments/Pasted image 20251112144214.png",
