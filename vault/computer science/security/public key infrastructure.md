@@ -8,7 +8,7 @@ public key infrastructure (PKI) is a system that enables sharing public keys sec
 5. the CA produces a **certificate**
 6. the CA hashes the certificate
 7. the CA signs the hash using it's private key
-8. the CA sends back the certificate
+8. the CA sends back the certificate with the signature
 9. the peer install the certificate in a hardware
 # problems
 ## fundamental problem
