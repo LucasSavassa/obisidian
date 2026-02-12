@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ad4de4223da5277",
+        "id": "4f0b0fa03ff1f8a5",
         "type": "tabs",
         "children": [
           {
-            "id": "fa197e27d9b1be8d",
+            "id": "bda8226e64834d87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "oauth"
             }
-          },
-          {
-            "id": "5c0ded7b502c99bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "attachments/oauth 2026-02-10 20.51.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "oauth 2026-02-10 20.51.09.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,19 +170,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c0ded7b502c99bf",
+  "active": "bda8226e64834d87",
   "lastOpenFiles": [
+    "computer science/security/public key infrastructure.md",
+    "computer science/security/security.md",
+    "attachments/open id connect 2026-02-09 21.07.32.excalidraw.md",
     "computer science/security/oauth.md",
     "attachments/oauth 2026-02-10 20.51.09.excalidraw.md",
     "Pasted Image 20260210205609_428.png",
     "Pasted Image 20260210205520_805.png",
     "Pasted Image 20260210205500_912.png",
     "Pasted Image 20260210205405_670.png",
-    "computer science/security/security.md",
     "attachments/open id connect 2026-02-09 21.08.50.excalidraw.md",
-    "attachments/open id connect 2026-02-09 21.07.32.excalidraw.md",
     "Pasted Image 20260209213256_629.png",
-    "computer science/security/public key infrastructure.md",
     "attachments/public key infrastructure 2026-01-23 14.57.58.excalidraw.md",
     "computer science/programming language/c#/asp.net core/secret manager/secret manager.md",
     "computer science/programming language/c#/asp.net core/configuration/configuration.md",

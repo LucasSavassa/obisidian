@@ -15,26 +15,29 @@ how do you do that?
 ![[oauth 2026-02-10 20.51.09.excalidraw]]
 # oauth2 terminology
 
-| concept              | definition                                           |
-| -------------------- | ---------------------------------------------------- |
-| resource owner       | the user, who wants to share permissions with an app |
-| user agent           | e.g. mobile phone, computer                          |
-| client               | financial mentor, the app who needs permission       |
-| resource server      | broker app, who hosts the data                       |
-| authorization server | third party, usually the resource server itself      |
-| redirect uri         | where the client lands once given permission         |
-| response type        | type of data that the client expects                 |
-| scope                | granular permissions (e.g. read data, edit data)     |
-| consent              | an formal authorization request prompted to the user |
-| client id            | identifies the client with the auth server           |
-| client secret        | password that only client and auth server knows      |
-| auth code            | a short-lived token that represents the consent      |
-| access token         | a token that represents valid access                 |
-| id token             | a token that contains user identity data             |
-| front channel        | query string                                         |
-| back channel         | https post request                                   |
+| concept              | definition                                              |
+| -------------------- | ------------------------------------------------------- |
+| resource owner       | the user, who wants to share permissions with an app    |
+| user agent           | e.g. mobile phone, computer                             |
+| client               | financial mentor, the app who needs permission          |
+| resource server      | broker app, who hosts the data                          |
+| authorization server | third party, usually the resource server itself         |
+| redirect uri         | where the auth server redirects and delivers auth code  |
+| response type        | the type of flow that the client is trying to do        |
+| scope                | granular permissions (e.g. read data, edit data)        |
+| consent              | an formal authorization request prompted to the user    |
+| client id            | identifies the client with the auth server              |
+| client secret        | password that only client and auth server knows         |
+| auth code            | a short-lived coupon that is exchanged for access token |
+| access token         | a token that represents valid access                    |
+| id token             | a token that contains user identity data                |
+| front channel        | query string                                            |
+| back channel         | https post request                                      |
+| pkce                 | pixie - a random hashed value that extends security     |
+| code verifier        | the pkce value before hashing                           |
+| code challenge       | the pkce value after hashing + base 64 encoding         |
 # concepts
-- oauth flow
+- authorization code flow
 - access token
 - id token
 - client types
@@ -49,7 +52,12 @@ how do you do that?
 - the auth will determine how to handle the auth flow. it may issue refresh tokens instead of access tokens in more risky scenarios, or skip the consent in less risky ones
 - a confidential client can store a password safely (e.g. web apps, using environment variables)
 - a public client can't (e.g. single page apps, mobile apps)
-
+## authorization code flow
+- this flow can be used by private clients
+- auth server sends an auth code in the front channel
+- the client exchange the auth code for an access token
+- the client sends the auth code + client password
+- the auth code is short-lived
 # diagrams
 ## authorization code flow
-![[open id connect 2026-02-09 21.07.32.excalidraw]]![[open id connect 2026-02-09 21.08.50.excalidraw]]
+![[open id connect 2026-02-09 21.08.50.excalidraw]]
