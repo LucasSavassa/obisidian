@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/security/oauth.md",
+                "file": "computer science/web/web development/web development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "oauth"
+              "title": "web development"
+            }
+          },
+          {
+            "id": "28213b229fd1aa73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer science/web/web development/responsive web design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "responsive web design"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +185,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda8226e64834d87",
+  "active": "28213b229fd1aa73",
   "lastOpenFiles": [
+    "Pasted image 20260225120011.png",
+    "computer science/web/web development/responsive web design.md",
+    "computer science/web/web development/web development.md",
+    "computer science/web/web development/how to strong password.md",
+    "computer science/security/oauth.md",
     "computer science/security/public key infrastructure.md",
     "computer science/security/security.md",
     "attachments/open id connect 2026-02-09 21.07.32.excalidraw.md",
-    "computer science/security/oauth.md",
     "attachments/oauth 2026-02-10 20.51.09.excalidraw.md",
     "Pasted Image 20260210205609_428.png",
     "Pasted Image 20260210205520_805.png",
@@ -203,10 +222,7 @@
     "computer science/programming language/c#/aspire/aspire.md",
     "computer science/programming language/c#/versions.md",
     "computer science/cloud computing/cloud computing.md",
-    "computer science/cloud computing/github/github.md",
-    "computer science/cloud computing/github/codespaces/codespaces.md",
     "computer science/programming language/c#/aspire",
-    "attachments/codespaces 2026-01-28 20.34.36.excalidraw.md",
     "computer science/cloud computing/github/codespaces",
     "computer science/cloud computing/github",
     "security",
