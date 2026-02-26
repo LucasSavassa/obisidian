@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/web/web development/responsive web design.md",
+                "file": "computer science/cloud computing/azure/active directory/active directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "responsive web design"
+              "title": "active directory"
             }
           }
         ],
@@ -187,8 +187,16 @@
   },
   "active": "28213b229fd1aa73",
   "lastOpenFiles": [
-    "Pasted image 20260225120011.png",
+    "Pasted image 20260225213553.png",
+    "Pasted image 20260225213250.png",
+    "computer science/cloud computing/azure/azure.md",
+    "computer science/cloud computing/azure/active directory/active directory.md",
+    "computer science/cloud computing/azure/architecture.md",
+    "computer science/cloud computing/azure/cost management.md",
+    "computer science/cloud computing/azure/microsoft entra/microsoft entra.md",
+    "computer science/cloud computing/azure/active directory",
     "computer science/web/web development/responsive web design.md",
+    "Pasted image 20260225120011.png",
     "computer science/web/web development/web development.md",
     "computer science/web/web development/how to strong password.md",
     "computer science/security/oauth.md",
@@ -217,22 +225,14 @@
     "computer science/programming language/c#/asp.net core/entity framework/entity framework.md",
     "computer science/programming language/c#/asp.net core/dependency injection",
     "computer science/operating system/virtual address space.md",
-    "computer science/operating system/operating system.md",
-    "computer science/operating system/garbage collection.md",
-    "computer science/programming language/c#/aspire/aspire.md",
-    "computer science/programming language/c#/versions.md",
-    "computer science/cloud computing/cloud computing.md",
     "computer science/programming language/c#/aspire",
     "computer science/cloud computing/github/codespaces",
     "computer science/cloud computing/github",
     "security",
     "computer science/security",
-    "computer science/cloud computing/azure/microsoft entra",
     "attachments/Pasted image 20260113164823.png",
     "attachments/Pasted image 20251223154540.png",
     "attachments/Pasted Image 20251212110044_151.png",
-    "attachments/Pasted image 20251112144214.png",
-    "attachments/Pasted image 20251211160808.png",
     "Untitled.canvas"
   ]
 }

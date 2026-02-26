@@ -1,3 +1,4 @@
+[[active directory]]
 [[microsoft entra|microsoft entra]]
-[[azure.cost management|cost management]]
-[[azure.architecture]]
+[[cost management|cost management]]
+[[architecture]]
